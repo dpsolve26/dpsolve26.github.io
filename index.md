@@ -23,9 +23,10 @@ Following the successful CP 2023 workshop on the same topic, DPSOLVE 2026 will p
 
 ## Important Dates
 
-*   **Paper Submission Deadline:** TBD
+*   **Paper Submission Deadline:** No later than Mid-May 2026
 *   **Author Notification:** TBD
 *   **Camera-Ready Version:** TBD
+*   **Early Registration Deadline:** First week of June 2026
 *   **Workshop Date:** July 18-19, 2026
 
 We look forward to seeing you in Lisbon!
