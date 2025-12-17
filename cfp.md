@@ -19,11 +19,13 @@ We welcome submissions on topics including, but not limited to:
 
 ## Submission Types
 
-We solicit two types of submissions:
+We solicit extended abstracts submissions (2–3 pages) that may include.
 
-*   **Full Papers:** Original research papers (up to 15 pages).
-*   **Abstracts:** Short papers describing ongoing work or position statements (up to 4 pages).
+* Presentations of previously published conference or journal work that has not appeared at CP (e.g., CPAIOR, journal, etc.);
+* Descriptions of work in progress, in the style of INFORMS abstracts;
+* Presentations of a tool related to Dynamic Programming (DP).
 
-All submissions will be peer-reviewed by the program committee. Accepted papers will be presented at the workshop.
+All submissions will be reviewed by the program committee to make sure they are alligned with the workshop topic. 
+Accepted ones will be presented at the workshop.
 
 For details on how to submit, please see the [Submission page](./submission).

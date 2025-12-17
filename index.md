@@ -3,10 +3,9 @@ layout: default
 title: Home
 ---
 
-# Welcome to DPSOLVE 2026
 
 <div class="banner">
-  <div class="banner-text">DPSOLVE 2026 - Lisbon</div>
+  <div class="banner-text">DPSOLVE 2026 Workshop - Lisbon</div>
 </div>
 
 **The 2nd Workshop on Models and Solvers for Dynamic Programming**
@@ -23,10 +22,9 @@ Following the successful CP 2023 workshop on the same topic, DPSOLVE 2026 will p
 
 ## Important Dates
 
-*   **Paper Submission Deadline:** No later than Mid-May 2026
-*   **Author Notification:** TBD
-*   **Camera-Ready Version:** TBD
-*   **Early Registration Deadline:** First week of June 2026
+*   **Extended Abstract Submission Deadline:** May 15 AoE 2026
+*   **Author Notification:** 1st June 2026
+*   **Registration:** See [Floc26](https://www.floc26.org/registration) webpage 
 *   **Workshop Date:** July 18-19, 2026
 
 We look forward to seeing you in Lisbon!
